@@ -11,6 +11,8 @@
 - 📫 How to reach me: [email!](mailto:patrick.hultquist@icloud.com)
 - 😄 Pronouns: he/him/his
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fphultquist)
+
 <!--
 **phultquist/phultquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
