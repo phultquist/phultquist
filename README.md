@@ -1,7 +1,8 @@
 # 👋 Hello
 [Instagram](https://instagram.com/phultquist) | [Facebook](https://facebook.com/patrickhultquis)
 
-**I live in Illinois**<br>
+**I live in Illinois**
+
 **I go to [IMSA](https://imsa.edu)**
 
 - 🌱 I’m currently learning: react
