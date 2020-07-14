@@ -7,6 +7,6 @@
 
 - 🌱 I’m currently learning: react
 - 🤔 I’m thinking about: simulation
-- 💬 Ask me about: past projects
+<!--- 💬 Ask me about: past projects-->
 - 📫 How to reach me: [email!](mailto:patrick.hultquist@icloud.com)
 - 😄 Pronouns: he/him/his
