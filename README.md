@@ -1,7 +1,7 @@
 # 👋 Hello
 [Instagram](https://instagram.com/phultquist)
 
-**I live in Illinois**
+<!--**I live in Illinois**-->
 
 **I go to [IMSA](https://imsa.edu)**
 
