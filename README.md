@@ -1,5 +1,5 @@
-# 👋 Hello
-[Instagram](https://instagram.com/phultquist)
+# 👋 Hello!
+[Instagram](https://instagram.com/phultquist) | [Website](https://patrick.today)
 
 <!--**I live in Illinois**-->
 
