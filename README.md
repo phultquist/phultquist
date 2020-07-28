@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hello, I'm Patrick</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phultquist" alt="phultquist" /> </p>
 
 - 🌱 I’m currently learning **React**
 
