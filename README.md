@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Patrick
+# 👋 Hello
 
 - 🌱 I’m currently learning **React**
 
