@@ -1,6 +1,6 @@
 # 👋 Hello
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 👨‍💻 All of my projects are available on my GitHub, and I'm working on a [personal website](https://github.com/phultquist/personal-website)
 
