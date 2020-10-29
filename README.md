@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available on my GitHub, and I'm working on a [personal website](https://github.com/phultquist/personal-website)
+- 👨‍💻 Most of my projects are available on my GitHub
 
 - 💬 Ask me about **Past projects, like [Grade Fiddle](https://phultquist.github.io/gradefiddle)**
 
