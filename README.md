@@ -4,7 +4,7 @@
 
 - 👨‍💻 Most of my projects are available on my GitHub
 
-- 💬 Ask me about **Past projects, like [Grade Fiddle](https://phultquist.github.io/gradefiddle)**
+- 💬 Ask me about **Past projects**
 
 - 📫 How to reach me **contact@patrick.today**
 
