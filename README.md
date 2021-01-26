@@ -8,5 +8,5 @@
 
 - 📫 How to reach me **contact@patrick.today**
 
-Languages: JavaScript, HTML/CSS, Python, Dart, R, Processing+Java, Swift, Arduino C
+Languages: JavaScript, HTML/CSS, Python, Dart, R, Processing+Java, Swift, Arduino C, C#
 
