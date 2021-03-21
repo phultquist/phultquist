@@ -1,6 +1,6 @@
 # 👋 Hello
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 Most of my projects are available on my GitHub
 
@@ -8,5 +8,5 @@
 
 - 📫 How to reach me **contact@patrick.today**
 
-Languages: JavaScript, HTML/CSS, Python, Dart, R, Processing+Java, Swift, Arduino C, C#
+Languages: JavaScript, Typescript, React, HTML/CSS, Python, Dart, R, Processing+Java, Swift, Arduino C, C#
 
