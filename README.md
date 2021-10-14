@@ -8,5 +8,4 @@
 
 - 📫 How to reach me **contact@patrick.today**
 
-Languages: JavaScript, React, HTML/CSS, Python, Dart, R, Processing+Java, Swift, Arduino C, C#, Typescript
-
+Languages: Javascript, Typescript, MongoDB, React, Flutter, HTML, CSS, React Native, Java, C#, R, LaTeX, Python, Swift, C
