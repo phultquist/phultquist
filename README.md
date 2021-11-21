@@ -1,11 +1,6 @@
-# 👋 Hello
+# Hello
 
-- 🌱 I’m currently learning **Flutter**
+You can find all important information at **[patrick.today](https://patrick.today)** and my resume at **[patrick.today/resume](https://patrick.today/resume)**. Otherwise, feel free to reach out!
 
-- 👨‍💻 Most of my projects are available on my GitHub
-
-- 💬 Ask me about **Past projects**
-
-- 📫 How to reach me **contact@patrick.today**
-
-Languages: Javascript, Typescript, MongoDB, React, Flutter, HTML, CSS, React Native, Java, C#, R, LaTeX, Python, Swift, C
+My Best Skills: JavaScript, TypeScript, React, React Native, NextJS, Flutter, HTML/CSS, C#, LaTeX, Python
+Skills I'm Perfecting: Java, R, Swift, C, C++
