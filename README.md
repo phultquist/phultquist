@@ -1,4 +1,4 @@
-# Hello
+# Hello.
 
 You can find all important information at **[patrick.today](https://patrick.today)** and my resume at **[patrick.today/resume](https://patrick.today/resume)**. Otherwise, feel free to reach out!
 
