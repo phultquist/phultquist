@@ -1,6 +1,9 @@
 # Hello.
 
-You can find all important information at **[patrick.today](https://patrick.today)** and my resume at **[patrick.today/resume](https://patrick.today/resume)**. Otherwise, feel free to reach out!
+👤 [patrick.today](https://patrick.today)
+📄 [patrick.today/resume](https://patrick.today/resume)
+📅 [cal.com/patrick](https://cal.com/patrick)
+📫 [reach@patrick.today](mailto:contact@patrick.today)
 
 My Best Skills: JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python
 
