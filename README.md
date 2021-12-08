@@ -10,4 +10,4 @@
 
 My Best Skills: JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python
 
-Skills I'm Perfecting: Java, R, Swift, C, C++, Flutter
+Other Known Skills: Java, R, Swift, C, C++, Flutter, Vue
