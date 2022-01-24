@@ -8,6 +8,6 @@
 
 📫 [reach@patrick.today](mailto:contact@patrick.today)
 
-My Best Skills: JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python
+My Best Skills: JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python, Svelte
 
 Other Skills: Java, R, Swift, C, C++, Flutter, Vue
