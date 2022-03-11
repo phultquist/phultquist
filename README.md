@@ -1,5 +1,7 @@
 # Hello.
 
+I'm currently building all sorts of things at [Monogram](https://monogram.io)
+
 👤 [patrick.today](https://patrick.today)
 
 📄 [patrick.today/resume](https://patrick.today/resume)
