@@ -2,13 +2,13 @@
 
 I'm currently building all sorts of things at [Monogram](https://monogram.io)
 
-👤 [patrick.today](https://patrick.today)
+👤 [patrick.app](https://patrick.app)
 
-📄 [patrick.today/resume](https://patrick.today/resume)
+📄 [patrick.app/resume](https://patrick.app/resume)
 
 📅 [cal.com/patrick](https://cal.com/patrick)
 
-📫 [reach@patrick.today](mailto:contact@patrick.today)
+📫 [hello@patrick.app](mailto:hello@patrick.app)
 
 JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python, Svelte
 
