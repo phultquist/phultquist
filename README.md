@@ -8,7 +8,7 @@ I'm currently building all sorts of things at [Monogram](https://monogram.io)
 
 📅 [cal.com/patrick](https://cal.com/patrick)
 
-📫 [hello@patrick.app](mailto:hello@patrick.app)
+📫 [hi@patrick.app](mailto:hi@patrick.app)
 
 JavaScript, TypeScript, React, React Native, NextJS, HTML/CSS, C#, LaTeX, Python, Svelte
 
