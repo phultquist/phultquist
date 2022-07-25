@@ -1,6 +1,6 @@
 # Hello.
 
-I'm currently building all sorts of things at [Monogram](https://monogram.io)
+Check out [Raster](https://raster.app) while you're here.
 
 👤 [patrick.app](https://patrick.app)
 
