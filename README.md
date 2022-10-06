@@ -2,8 +2,6 @@
 
 👤 [patrick.app](https://patrick.app)
 
-📄 [patrick.app/resume](https://patrick.app/resume)
-
 📅 [cal.com/patrick](https://cal.com/patrick)
 
 📫 [hi@patrick.app](mailto:hi@patrick.app)
