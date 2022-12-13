@@ -6,6 +6,6 @@
 
 📫 [hi@patrick.app](mailto:hi@patrick.app)
 
-JavaScript, TypeScript, React, React Native, Next.js, HTML/CSS, LaTeX, Svelte
+JavaScript, TypeScript, React, React Native, Next.js, HTML/CSS, LaTeX, Svelte, Node
 
 Other skills: Java, R, Swift, C, Python, Flutter, Vue, THREE.js, C++, C#
