@@ -8,4 +8,4 @@
 
 JavaScript, TypeScript, React, React Native, Next.js, HTML/CSS, LaTeX, Svelte, Node
 
-Other skills: Java, R, Swift, C, Python, Flutter, Vue, THREE.js, C++, C#
+Other skills: Java, R, Swift, Python, Flutter, Vue, THREE.js, C++, C#
